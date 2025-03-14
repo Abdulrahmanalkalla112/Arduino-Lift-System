@@ -1,5 +1,5 @@
 # Arduino-Lift-System
-An Arduino-based stepper motor lift system with button controls and floor detection."# Arduino Lift System 🚀
+The Arduino Lift System is an elevator simulation controlled by an Arduino Uno/Nano and powered by a stepper motor with a driver. Users can select floors using push buttons, and the system detects the lift’s position via limit switches (normally open sensors). The lift moves precisely to the selected floor and stops automatically upon reaching its destination.."# Arduino Lift System 🚀
 
 
 ## 📌 Features
