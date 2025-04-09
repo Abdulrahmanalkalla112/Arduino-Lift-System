@@ -1,4 +1,5 @@
 # Arduino Lift Systeem 🚀
+Het Arduino Lift Systeem is een liftsimulatie die wordt aangestuurd door een Arduino Uno of Nano en aangedreven wordt door een stappenmotor met een driver. Gebruikers kunnen verdiepingen selecteren via drukknoppen, en het systeem detecteert de positie van de lift met behulp van eindschakelaars (normaal open sensoren). De lift beweegt nauwkeurig naar de gekozen verdieping en stopt automatisch zodra deze is bereikt.
 
 ## 📌 Functies
 - Ondersteuning voor 6 verdiepingen (0 t/m 5)  
